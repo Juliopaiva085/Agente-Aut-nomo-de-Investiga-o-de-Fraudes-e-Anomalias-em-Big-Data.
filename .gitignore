@@ -1,0 +1,3 @@
+*.parquet
+ollama.log
+__pycache__/
